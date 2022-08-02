@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-It's Fernando Pozo's GitHub. I'm a Data Science and Machine Learning specialist 📊💻.
+It's Fernando Pozo's GitHub. I use to work in Bioinformatics, Data Science and Machine Learning tasks! 📊💻.
 
 <!--
 **fpozoc/fpozoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

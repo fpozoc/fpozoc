@@ -75,13 +75,13 @@ Here are some ideas to get you started:
 
 ### Bioinformatics
 - [nf-exec](https://github.com/fpozoc/nf-exec): Some Nextflow workflow management useful practices. 
-- [appris-rnaseq](https://gitlab.com/fpozoc/appris_rnaseq): Comprehensive and extremely easy to manage RNA-seq pipeline.
+- [appris-rnaseq](https://github.com/fpozoc/appris_rnaseq): Comprehensive and extremely easy to manage RNA-seq pipeline.
 - [qsplice](https://gitlab.com/fpozoc/qsplice): Exon junction scores from RNA-seq data for the whole genome.
 - [phosphoproteomics](https://github.com/fpozoc/phosphoproteomics): Several analysis to study post-translational modifications in proteins.
 - [ismb-presentation](https://github.com/fpozoc/ismb-presentation): Material for presenting my PhD. thesis work in the biggest conference in Bioinformatics.
 
 ### HPC
-- [hp-pfamscan](): HPC implementation protein families finder.
+- [hp-pfamscan](https://github.com/fpozoc/hp-pfamscan): HPC implementation protein families finder.
 
 ### Teaching
 - [advanced-bioinformatics-course](https://github.com/fpozoc/advanced-bioinformatics-course): E2e university course in Bioinformatics applied to Genomics.

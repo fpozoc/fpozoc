@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### Machine Learning / Statistical Learning
 
-- [trifid](https://gitlab.com/bu_cnio/trifid): Machine learning for protein isoform genome annotation.
+- [trifid](https://github.com/fpozoc/trifid): Machine learning for protein isoform genome annotation.
 - [covid-rt](https://github.com/fpozoc/covid-rt): Bayesian estimation of virus effective reproduction number.
 
 ### Deep Learning

@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 - [appris-rnaseq](https://github.com/fpozoc/appris_rnaseq): Comprehensive and extremely easy to manage RNA-seq pipeline.
 - [qsplice](https://github.com/fpozoc/qsplice): Exon junction scores from RNA-seq data for the whole genome.
 - [phosphoproteomics](https://github.com/fpozoc/phosphoproteomics): Several analysis to study post-translational modifications in proteins.
-- [ismb-presentation](https://github.com/fpozoc/ismb-presentation): Material for presenting my PhD. thesis work in the biggest conference in Bioinformatics.
+- [ismb-presentation](https://github.com/fpozoc/ismb-presentation): Materials for presenting my PhD. thesis work in the biggest conference in Bioinformatics.
+- [eccb-22](https://github.com/fpozoc/eccb.22): Materials for the presentation at 21st European Conference on Computational Biology (ECCB).
 
 ### HPC
 - [hp-pfamscan](https://github.com/fpozoc/hp-pfamscan): HPC implementation protein families finder.

@@ -73,6 +73,10 @@ Here are some ideas to get you started:
 - [Chest-X-Ray-with-Radiologist-AI](https://github.com/Rules99/Chest-X-Ray-with-Radiologist-AI): Web app for Chest X-Ray pathology assistance using CNNs and NLP.
 - [cxr-img-classifier](https://github.com/fpozoc/cxr-img-classifier): Pytorch Lighning + config + logger for an user friendly image binary classification with DL.
 
+### Python best-practices
+
+- [pyops](https://github.com/fpozoc/pyops): Python Project template designed for a cool variety of projects 
+
 ### Bioinformatics
 - [nf-exec](https://github.com/fpozoc/nf-exec): Some Nextflow workflow management useful practices. 
 - [appris-rnaseq](https://github.com/fpozoc/appris_rnaseq): Comprehensive and extremely easy to manage RNA-seq pipeline.
